@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+
+# Virtual environment
+tf_env/
+venv/
+env/
+
+# Data files
+*.csv
+*.xlsx
+*.db
+
+# Model files
+*.h5
+*.pkl
+
+# Logs
+*.log
